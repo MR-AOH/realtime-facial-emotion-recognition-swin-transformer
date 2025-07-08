@@ -2,6 +2,8 @@
 
 A sophisticated real-time facial emotion recognition system that combines Swin Transformer architecture with MediaPipe facial landmarks for accurate emotion detection from video streams. Features an intuitive analysis dashboard showing emotion predictions, attention weights, and facial feature tracking.
 
+![WhatsApp Image 2025-06-29 at 1 01 48 PM](https://github.com/user-attachments/assets/5e609aec-5e7c-4066-baf7-9c99120fa282)
+
 ## 🌟 Key Features
 
 - 🎯 **Real-Time Emotion Detection**: Instant emotion recognition from video frames
