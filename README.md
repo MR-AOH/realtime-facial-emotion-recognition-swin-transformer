@@ -83,7 +83,7 @@ mediapipe>=0.8.0
 numpy>=1.21.0
 matplotlib>=3.3.0
 ```
-
+OR you can simply use the "notebook_for_model.ipynb" file if you prefer to work with nookbooks.
 ## 💻 Usage
 
 ### 🎥 Video Processing
